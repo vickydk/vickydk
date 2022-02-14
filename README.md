@@ -1,5 +1,9 @@
 ### Hi there, I'm Vicky - aka [vickydk] 👋
 
+[![Youtube: VidukaGarage](https://img.shields.io/youtube/channel/subscribers/UChbeUl2jZ6gD_Pgljl97azA?style=social)](https://www.youtube.com/channel/UChbeUl2jZ6gD_Pgljl97azA)
+[![Linkedin: vicky](https://img.shields.io/badge/-vicky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)](https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)
+[![GitHub vickydk](https://img.shields.io/github/followers/vickydk?label=follow&style=social)](https://github.com/vickydk)
+
 ## I'm a Husband, Father, Tech Lead, and Sr. Backend Golang Developer!
 - 🔭 I’m currently working as a Sr. Backend Golang Developer!!
 - 🌱 I live in Indonesia
@@ -11,12 +15,6 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/vidukagarage" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
----
-Social media:
-
-[![Youtube: VidukaGarage](https://img.shields.io/youtube/channel/subscribers/UChbeUl2jZ6gD_Pgljl97azA?style=social)](https://www.youtube.com/channel/UChbeUl2jZ6gD_Pgljl97azA)
-[![Linkedin: vicky](https://img.shields.io/badge/-vicky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)](https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)
-[![GitHub vickydk](https://img.shields.io/github/followers/vickydk?label=follow&style=social)](https://github.com/vickydk)
 ---
 📈 my github stats:
 
