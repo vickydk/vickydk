@@ -25,6 +25,10 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vickydk&theme=monokai)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickydk&theme=monokai)
 
+---
+Please check my 2nd Github: 
+[![GitHub vickydkastro](https://img.shields.io/github/followers/vickydkastro?label=follow&style=social)](https://github.com/vickydkastro)
+
 <!--
 **vickydk/vickydk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
