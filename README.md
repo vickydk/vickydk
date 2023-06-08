@@ -20,7 +20,7 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ---
 📈 my github stats:
 
-| <a href="https://github.com/vickydk/github-readme-stats"><img align="center" src="https://github-readme-stats-vickydk.vercel.app/api?username=vickydk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vicky's github stats" /></a> | <a href="https://github.com/vickydk/github-readme-stats"><img align="center" src="https://github-readme-stats-vickydk.vercel.app/api/top-langs/?username=vickydk&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/vickydk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vickydk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vicky's github stats" /></a> | <a href="https://github.com/vickydk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickydk&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickydk&theme=monokai)
