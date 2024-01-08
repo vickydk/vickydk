@@ -1,10 +1,7 @@
 ### Hi there, I'm Vicky - aka [vickydk] 👋
 
 [![Youtube: VidukaGarage](https://img.shields.io/youtube/channel/subscribers/UChbeUl2jZ6gD_Pgljl97azA?style=social)](https://www.youtube.com/channel/UChbeUl2jZ6gD_Pgljl97azA)
-[![Linkedin: vicky](https://img.shields.io/badge/-vicky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)](https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)
 [![GitHub vickydk](https://img.shields.io/github/followers/vickydk?label=follow&style=social)](https://github.com/vickydk)
-[![GitHub vickydkastro](https://img.shields.io/github/followers/vickydkastro?label=follow&style=social)](https://github.com/vickydkastro)
-[![GitLab vickydk1](https://img.shields.io/badge/gitlab-vickydk1-red)](https://gitlab.com/vickydk1)
 
 ## I'm a Husband, Father, Tech Lead, and Sr. Backend Golang Developer!
 - 🔭 I’m currently working as a Sr. Backend Golang Developer!!
