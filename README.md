@@ -1,14 +1,12 @@
 ### Hi there, I'm Vicky - aka [vickydk] 👋
 
-[![Youtube: VidukaGarage](https://img.shields.io/youtube/channel/subscribers/UChbeUl2jZ6gD_Pgljl97azA?style=social)](https://www.youtube.com/channel/UChbeUl2jZ6gD_Pgljl97azA)
 [![GitHub vickydk](https://img.shields.io/github/followers/vickydk?label=follow&style=social)](https://github.com/vickydk)
 
 ## I'm a Husband, Father, Tech Lead, and Sr. Backend Golang Developer!
-- 🔭 I’m currently working as a Sr. Backend Golang Developer!!
+- 🔭 I’m currently working as a Sr. Backend Developer!!
 - 🌱 I live in Indonesia
-- 👯 I’m looking to collaborate with other's on some cool open source projects in GoLang.
+- 👯 I’m looking to collaborate with other's on some cool open source projects.
 - 🥅 2022 Goals: Contribute more to Open Source projects, learn blockchain and NFT, and enhance my AWS/GCP Skills.
-- ⚡ Fun fact: subscribe to my youtube channel: [Youtube - Viduka Garage](https://www.youtube.com/channel/UChbeUl2jZ6gD_Pgljl97azA)
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
