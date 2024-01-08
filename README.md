@@ -2,7 +2,7 @@
 
 [![GitHub vickydk](https://img.shields.io/github/followers/vickydk?label=follow&style=social)](https://github.com/vickydk)
 
-## I'm a Husband, Father, Tech Lead, and Sr. Backend Golang Developer!
+## I'm a Husband, Father, Tech Lead, and Sr. Backend Developer!
 - 🔭 I’m currently working as a Sr. Backend Developer!!
 - 👯 I’m looking to collaborate with other's on some cool open source projects.
 - 🥅 2024 Goals: Contribute more to Open Source projects, enhance my AWS/GCP Skills.
