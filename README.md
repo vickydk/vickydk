@@ -4,7 +4,6 @@
 
 ## I'm a Husband, Father, Tech Lead, and Sr. Backend Golang Developer!
 - 🔭 I’m currently working as a Sr. Backend Developer!!
-- 🌱 I live in Indonesia
 - 👯 I’m looking to collaborate with other's on some cool open source projects.
 - 🥅 2024 Goals: Contribute more to Open Source projects, enhance my AWS/GCP Skills.
 
