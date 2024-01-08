@@ -6,11 +6,7 @@
 - 🔭 I’m currently working as a Sr. Backend Developer!!
 - 🌱 I live in Indonesia
 - 👯 I’m looking to collaborate with other's on some cool open source projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects, learn blockchain and NFT, and enhance my AWS/GCP Skills.
-
-if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/vidukagarage" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+- 🥅 2024 Goals: Contribute more to Open Source projects, enhance my AWS/GCP Skills.
 
 ---
 📈 my github stats:
@@ -20,6 +16,3 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickydk&theme=monokai)
 
----
-Please check my 2nd Github: 
-[![GitHub vickydkastro](https://img.shields.io/github/followers/vickydkastro?label=follow&style=social)](https://github.com/vickydkastro)
